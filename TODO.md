@@ -1,0 +1,13 @@
+TODO:
+- [ ] Add more projects
+- [ ] Add more skills
+- [ ] Add more experiences
+- [ ] Add more education
+- [ ] Add more certifications
+- [ ] Add more publications
+- [ ] Add more references
+- [ ] Add more activities
+- [ ] Add more interests
+- [ ] Add more hobbies
+- [ ] Add more languages
+- [ ] Add more interests
